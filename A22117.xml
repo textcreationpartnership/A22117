@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copie of His Maiesties license granted to Iames Maxwell, Esquire, for the buying and transporting of calue-skinnes.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1622</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22117</idno>
+            <idno type="STC">STC 8522</idno>
+            <idno type="STC">ESTC S3902</idno>
+            <idno type="EEBO-CITATION">33151153</idno>
+            <idno type="OCLC">ocm 33151153</idno>
+            <idno type="VID">28962</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22117)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28962)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:74)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copie of His Maiesties license granted to Iames Maxwell, Esquire, for the buying and transporting of calue-skinnes.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+                  <author>Middlesex, Lionel Cranfield, Earl of, 1575-1645.</author>
+               </titleStmt>
+               <extent>2 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By W. Jones,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1622]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The royal patent is accompanied by: A copie of the Lord Treasurers Letter directed to Sir Iohn VVolstenholme Knight, Henry Garway, and Abraham Iacob, Esquires, Farmers of his Maiesties Customes. 1622.</note>
+                  <note>Imprint suggested by STC (2nd ed.).</note>
+                  <note>"Giuen at our Palace of Westminster the twenty fourth day of October 1605. in the fifth yeere of our Reigne of Great Britaine."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hides and skins industry --  Licenses --  Great Britain --  Early works to 1800.</term>
+               <term>Exclusive licenses --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters_patent">
+            <pb facs="tcp:28962:1" rendition="simple:additions"/>
+            <head>A true Copie of his Maieſties Licenſe Granted to <hi>Iames Maxwell</hi> Eſquire, for the buying and tranſporting of Calue-skinnes.</head>
+            <head>
+               <figure>
+                  <head>IR</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">I</seg>AMES by the Grace of God, King of England, Scotland, France, and Ireland, Defender of the Faith, &amp;c.</signed>
+               <salute>To the Treaſurer, Chauncellor, vnder Treaſurer, and Barons of our Exchequer. And to all other Our Officers, and Miniſters of the ſame Court. And to all Maiors, Sheriffes, Bayliffes, Conſtables, Cuſtomers, Conptrollers, Searchers, and Keepers of all and euery Our Ports, Hauens, Creekes, and Paſſages. And to all other Our Officers, Miniſters, and Subiects whatſoeuer to whom in this caſe it ſhall or may appertaine, Greeting.</salute>
+            </opener>
+            <p>Whereas we by Our Letters Patents bearing Date at Our Pallace of Weſtminſter the XXVI. day of February, in the VII yeare of Our raigne of England, France, and Ireland, for the conſiderations therein mentioned, haue giuen and granted for Vs, Our Heires and Succeſſors, free Licence, Power, and Authority, vnto Our welbeloued Seruants, <hi>Arthur Baſſano, Andrew Baſſano, Ieronimo Baſſano, Edward Baſſano, Scipio Baſſano, Antony Baſſano,</hi> and vnto <hi>Daniell Baſſano,</hi> and <hi>William Baſſano,</hi> and euery of them. That they the ſaid <hi>Arthur Baſſano, Andrew Baſſano, Ieronimo Baſſano, Edward Baſſano, Scipio Baſſano, Antony Baſſano, Daniell Baſſano,</hi> and <hi>William Baſſano,</hi> and euery of them their, and euery of their Aſſignes by themſelues, or by their Deputies, Seruants, or Factors, or any of them being Engliſh-men, Denizens, or Strangers, ſhall or may at their pleaſure liberty and free will for and during the terme of 7 yeares, to begin immediatly from and after the XXVII, day of Auguſt, which then ſhould be in the yeare of Our Lord God 1614. at all times, and from time to time lawfully bargaine for, buy and prouide or cauſe to be bargained for, bought or prouided of any perſon or perſons, and within any Citty, Towne, Burrough, place or places within this Our Realme and Dominions of England and Walles, ſo many Dickers of Leather of Calue-skinnes as ſhall amount in the whole to the number of 6000. Dickers, accompting ten dozen of ſuch Calue-skinnes to euery Dicker. And the ſame ſo prouided and bought at all and euery time and times during the ſaid terme of 7. yeares, before by theſe Preſents granted, in any Ship or Shippes, Veſſell or Veſſells, Bottome or Bottomes, being of Our ſaid Realme and Dominions, Hoyes, and other Veſſells prohibited to croſſe the Seas onely excepted, to ſhip, lade, tranſport, and carry ouer, or cauſe to be ſhipped, laden, tranſported, or carryed ouer from any of the Portes, Hauens, Creekes, or Paſſages of this Our Realme and Dominions of England and Wales, into any the parts beyond the Seas being, or which at the time of ſuch ſhipping or tranſporting ſhall be in amity with Vs, Our Heires or Succeſſors. And in ſuch proportions, quantity, and number, as to them or any of them ſhall be thought meete and conuenient, and there from time to time at their free will and liberty to vtter, ſell, diſtribute, and diſpoſe to their and euery of their, beſt profit commoditie and aduantage, without any danger, forfaicture, loſſe, penalty, or moleſtation, againſt them or any of them, by Vs, Our Heires or Succeſſors, or to Our or their vſe, or behoofe to be had leuied, loſt, forfaicted, or recouered, and without any manner of let, int<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rruption, or diſturbance of any other perſon or perſons whatſoeuer. Any Statute, Proclamation, or reſtrainct thereof<g ref="char:punc">▪</g> heer<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tofore made to the contrary thereof, not<g ref="char:EOLhyphen"/>with<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tanding. Paying vnto Vs, Our Heires and Succeſſors, for euery Dicker of Calue-skinnes, which ſhall happen to be tranſported by vertue of that Our Licence, fiue ſhillings of Lawfull Engliſh money, the payment thereof to be from time to time made to the hands of Our Collectors of Our Cuſtoms in euery of the ſaid Parts, Hauens, Creekes, or places where any of the ſaid Calue-skins ſhall be ſhipped or laden to be tranſported as aforeſaid, as by Our ſaid Letters Patents amo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gſt diuers other Graunts, Licenſes, Prohibitions, and other things therein contained more plainely may appeare.</p>
+            <p>
+               <note place="margin">The Grant.</note>Know yee that we, aſwell in conſideration of the good &amp; faithfull ſeruice to Vs heretofore done by Our truſty and welbeloued <hi>Iames Maxwell</hi> Eſquire, one of our Gentlemen Vſhers dayly Wayters, as for the dueties and ſummes of mony herein reſerued to be payable to Vs, Our Heires and Succ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſors. Of Our ſpeciall grace, certaine knowledge, and meere motion, haue giuen and granted, and by theſe Preſents for Vs, Our Heires and Succeſſors, doe giue and graunt free Licenſe, power, and authority vnto the ſaid <hi>Iames Maxwell,</hi> his Executors, Adminiſtrators, and Aſſignes. That he the ſaid <hi>Iames Maxwell,</hi> his Exe<g ref="char:EOLhyphen"/>cutors, Adminiſtrators, and Aſſignes, by him or themſelues, or by his and their Deputies, Seruants, or Factors, or any of them, being Engliſhmen, Denizens, or Strangers, ſhall and may at his and their pleaſure libertie and free will, for and during the terme of XXI. yeares, to begin immediatly from and after the end,<note place="margin">The Terme of yeares.</note> expiration, ſurrender or other determination, of the ſaid terme of 7 yeares before mentioned to be graunted, at all times, and from time to time law<g ref="char:EOLhyphen"/>fully bargaine for, buy, and prouide, or cauſe to be bargained for, bought, or prouided of any perſon or perſons, and within any Citty, Towne, Burrough, place or places, within this Our Realme and Dominions of England and Wales, ſo many Dickers of Leather of Calue-skinnes, as ſhall or may amount in the whole to the number of Eighteene thouſand Dickers, accounting ten dozen of ſuch Calue-skinnes to euery Dicker. And the ſame ſo prouided and bought,<note place="margin">The number of Dickers.</note> at al &amp; euery time &amp; times during the ſaid termes of XXI. yeares, before by theſe preſents granted, in any Ship or Shippes, Veſſell or Veſſell, Botom or Bottomes, being of Our ſaid Realme and Dominions, Hoyes, or other Veſſells prohibited, to croſſe the Seas onely excepted; to Ship, layde, tranſport, and carry ouer, or cauſe to be Shipped, layden, tranſported, and carried ouer from or out of any the Portes, Hauens, Creekes, or paſſages of this Our ſaid Realme and Dominions of England and Walles, into any the parts beyond the Seaes being, or which at the time of ſuch Shipping, or tranſporting ſhall be in amity with Vs, Our Heires or Succeſſors. And in ſuch proportion quantity and number, as to him them or any of them ſhall be thought meete and conuenient. And there from time to time at his and their free will and liberty, to vtter ſell deſtribute and diſpoſe to his and their beſt profit, comodity and aduantage, without any danger, forfaicture, loſſe, penalty, or moleſtation againſt him or them, or any of them, by Vs, Our Heires or Succeſſors, or to Our or their vſe or behoofe, to be had, leuied, loſt, forfaicted or receiued: And without any manner of let, interruption or diſturbance of any other perſon or perſons whatſoeuer. Any Statute, Proclamation, or reſtrainct thereof, heretofore made to the contrary thereof notwithſtanding: Paying vnto Vs,<note place="margin">The Payment</note> Our Heires and Succeſſors, for euery Dicker of Calue-skinnes which ſhall be tranſported by vertue of this Our Licenſe, fiue ſhillings of lawfull Engliſh mony, the payment thereof to be from time to time made to the hands of Our Collectors of Our Coſtomes in euery of the ſaid Ports, Hauens, Creekes, or places, where any of the ſaid Calue-skinnes ſhall be Shipped, or layden to be tranſported as aforeſaid.</p>
+            <p>And wee will, and grant by theſe Preſents for Vs, Our Heires and Succeſſors: That the ſaid <hi>Iames Maxwell,</hi> his Executors, Adminiſtrators, and Aſſignes, his and their Deputies, Factors, and Seruants, and none other ſhall during the ſaid Terme of XXI. yeares by theſe Preſents granted, haue exerciſe and enioy, the whole full and ſole liberty, Licenſe, and power of and for tranſportation of Calue-skinnes out of Our ſaid Realme &amp; Dominions of England and Wales. And therefore we doe for Vs, Our Heires and Succeſſors, ſtraightly charge and commaund all and euery perſon and perſons whatſoeuer, of whatſoeuer eſtate, degree, or condition they be: That none of them other then the ſaid <hi>Iames Maxwell,</hi> his Executors, Adminiſtrators, and Aſſignes, and his or their Deputies, Factors, and Seruants, during the ſaid Terme of XXI. yeares, before by theſe Preſents granted, ſhall bring or ſend, or cauſe to be brought or ſent, or by any manner of meanes or coullor, tranſport, conuey, or ſhip out of this our Realme and Dominions of England and Wales, any Calue-skins during the continuance of this Our Graunt and Licenſe.</p>
+            <p>
+               <pb facs="tcp:28962:2" rendition="simple:additions"/>And we doe expreſſely prohibit and forbid all tranſportation whatſoeuer of any Calue-skinnes, by any perſon or perſons whatſoeuer, out of this Realme and Dominions of England and Wales during the ſaid Terme of XXI.<note place="margin">The prohibi<g ref="char:EOLhyphen"/>tion</note> yeares, before by theſe Preſents Granted, other then by the ſaid <hi>Iames Maxwell,</hi> his Executors, Adminiſtrators, and Aſſignes, his and their Deputies, Factors, or Seruants, vpon paine of ſuch impriſonment, penalty, or forfaicture, as may be lawfully inflicted on them and euery of them for their contempt and diſobedience in that behalfe. And for the better finding out of any ſuch conueying, tranſportation, or coulorable, paſſing of Calue-skinnes contrary to the effect, and true meaning of this our preſent Licenſe or Graunt, we doe by theſe Preſents ſtrictly charge and commaund all Our Cuſtomers, Comptrollers, and Searchers, and all other Our Officers in all Our Ports, Hauens, and Creekes, within Our ſaid Realme and Dominions of England and Wales: That at all times during the ſaid Terme of XXI. yeares, when and as often as they or any of them ſhall be thereunto willed or required by the ſaid <hi>Iames Maxwell,</hi> his Executors, Adminiſtrators, or Aſſignes, his or their Deputies, Factors, or Seruants: That they and euery of them ſhall with all dilligence, and by all lawfull wayes and meanes they can try out and ſearch for all ſuch Calue-skinnes as ſhall be ſhiped, imbarked or laden, to the intent to be carryed or transported out of Our ſaid Realme and Dominions of England and Wales, contrary to the meaning or intent of theſe our Letters Patents, and to arreſt, ſeiſe, and carry away, and detaine the ſame as forfaicted: The one moity of all which forfaictures to be to the vſe of Vs, Our Heires and Succeſſors, and the other moity thereof, we do by theſe Preſents giue and Grant to the ſaid <hi>Iames Max<g ref="char:EOLhyphen"/>well,</hi> his Executors,<note place="margin">The Charge.</note> Adminiſtrators, and Aſſignes. And further, we will and commaund all Our Cuſtomers, Comptrollers of Our Cuſtoms, and other the Officers of Vs, Our Heires and Succeſſors, that they doe not onely permit and ſuffer the ſaid <hi>Iames Maxwell,</hi> his Executors, Adminiſtrators, and Aſſignes, his and their Deputies, Factors, and Seruants, quietly and peaceably to prouide, bring, Ship, lade, and tranſport the ſaid number of 18000. Dickers of Calue-skinnes according to the tenor and true meaning of this Our Licence and Grant, at all times during the ſaid Terme of XXI. yeares by theſe Preſents Granted, and by all the ſaid time to haue and enioy the full and whole effect and benefit of this Our Licenſe. But alſo to forbeare by any manner of meanes to trouble or moleſt him, them, or any of them, for the buying, prouiding, lading, ſhipping, tranſporting, or vttering of the Premiſſes or any part thereof as aforeſaid.</p>
+            <p>Willing and commaunding, all Maiors, Sheriffes, Bayliffs, Conſtables, Cuſtomers, Comptrollers, Searchers, and all other Officers of Our ſaid Realme and Dominions of England and Wales, not onely to permit and ſuffer the ſaid <hi>Iames Maxwell,</hi> his Executors, Adminiſtrators, and Aſſignes, his and their Deputies, Factors, and Seruants, to haue take and enioy the full and whole benefit, commoditie and profit of this Our preſent Licenſe and Grant, but alſo that they be ayding, helping, &amp; aſiſting to him and them in the execution thereof, when they ſhall be thereunto required, during the ſaid Terme by theſe Preſents Granted. To which or to a duplicate thereof we do for Vs, Our Heires and Succeſſors, charge and commaund all Our Officers, Miniſters, and Sub<g ref="char:EOLhyphen"/>iects, to giue as much credit, as behooueth to be giuen to a Grant and Licenſe vnder Our Great Seale of England: And alſo to permit and ſuffer the ſaid <hi>Iames Maxwell,</hi> his Executors, Adminiſtrators, and Aſſignes, his and their Deputies, Factors, and Seruants, to enioy and quietly to vſe the whole effect and benefit of this Our Grant and Licenſe, without any manner of let, impediment, hinderance, impeachment, vexation, denyall, or contradiction, as you and euery of you will anſwere the contrary at your vttermoſt perrills. And to the intent we may be certainly informed during the ſaid Terme of XXI. yeares, what number of Calue-skinnes ſhall be yearely tranſported and carryed out of this our Realme and Dominions of England and Wales, by vertue of this Our Licenſe: And at what Portes, Hauens, Creekes, and places, and may be truely anſwered and ſati<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fied of ſuch Cuſtomes and duties as ſhall be due and ought to be payed vnto Vs, Our Heires and Succeſſors, of and for the ſame according to the effect and true meaning of theſe Preſents.</p>
+            <p>Our will and pleaſure is, and we doe charge and commaund that Our Colectors, Cuſtomers, Comptroulers, and ſuch Our Officers of euery the ſaid Portes, Creekes, Hauens, and places aforeſaid, where any of the ſaid Calue-skinnes ſhall be laden and ſhipped by vertue of theſe Preſents to whom it ſhall appertaine from time to time, not onely make perfect and certaine enteries thereof into their Cuſtome-Bookes. But alſo ſhall indorſe the ſeuerall number and quantity of the ſaid Calue-skinnes ſhall be laden and ſhipped, either vpon this our Licenſe or duplicate thereof, which for that purpoſe ſhall be left, with the ſaid Collectors, Cuſtomes, Comptrollers, and Officers of the ſaid Portes, Creekes, and Hauens, where ſuch entries of the ſaid Calue-skinnes ſhall happen to be made, and ſhall alſo yearely in the Terme of Saint <hi>Michaell</hi> the Archangell, during the ſaid Terme of XXI. yeares, certifie a true note in writing vnto Our Court of Exchequor at <hi>Weſtminſter,</hi> of all ſuch number of Calue-skinnes, as by vertue or coulor of theſe Preſents ſhall be there ſhipped, or laden, to be tranſported as aforeſaid, to the end that the certaine quantity and number of the ſaid Dickers of Calue-skinnes ſo to be tranſported, and the time and place of the ſhipping and tranſporting thereof may from time to time plainely appeare, as is aforeſaid.</p>
+            <p>
+               <note place="margin">Prouiſo.</note>Prouided alwaies, and our will and pleaſure is, that the ſaid <hi>Iames Maxwell,</hi> his Executors, Adminiſtrators, and Aſſignes, nor any of them, their or any of their Aſſignes, Deputies, Factors, or Seruants, ſhall not Ship, lade, tranſport, or carry any Calue-skinnes by vertue or coulor of this Our Licenſe, out of the Ports, Hauens, or Creekes of Cheſter &amp; Leuerpoole, or any of them, or out of any Port, Hauen, or Creeke being member of the ſaid Port of Cheſter, during ſuch time as any other Grant for tranſportation of Calue-skinnes out of any the ſaid Port, Hauen, and Creeke of Cheſter, ſhall happen to continue and be in force. And this Our Licenſe and Grant, nor any thing therein contained, ſhall not extend to auoid, preiudice, or impeach any former Grant or Licenſe whatſoeuer heretofore by Vs, or by Our late deare Siſter Queene <hi>Elizabeth,</hi> made to any perſon or perſons, bodies politique and corporate, for the tranſporting or carrying of Calue-skinnes out of this Realme and Dominions of England and Wales, but that they and euery of them may from time to time freely enioy the benefit of all ſuch former Grants and Licenſes ſo by Vs, or by the ſaid late Queene <hi>Elizabeth</hi> formerly made, &amp; Granted in as ample maner as if theſe preſent Letters Patents had neuer beene had or made, any thing before in theſe Preſents mentioned to the contrary notwithſtanding.</p>
+            <p>Although expreſſe mention of the true yearely value or certainty of the premiſſes or any of them: Or of any other guift or Grant by Vs or any of Our Progenitors or Predeceſſors to the ſaid <hi>Iames Maxwell,</hi> before theſe times made, in theſe Preſents is not made: Or any Statue, Act, ordinance, prouiſion, Pro<g ref="char:EOLhyphen"/>clamation, or reſtraint before this time, had, made, ſet forth, ordained or prouided, or any other thing, matter, or cauſe whatſoeuer, to the contrary not<g ref="char:EOLhyphen"/>withſtanding: In witnes whereof We haue cauſed theſe Our Letters to be made Patents.</p>
+            <closer>
+               <dateline>Witnes Our Selfe at Weſtminſter <date>the Twelfth day of <hi>Iune,</hi> in the Thirteenth yeare of Our Raigne of England, France, and Ireland, and of Scotland the Eight and Fortieth.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Copie of the Lord Treaſurers Letter directed to Sir <hi>Iohn VVolſtenholme</hi> Knight, <hi>Henry Garway,</hi> and <hi>Abraham Iacob,</hi> Eſquires, Farmers of his Maieſties Cuſtomes.</head>
+            <p>AFter my hearty commendations<g ref="char:punc">▪</g> Whereas the Kings Maieſtie by his Highnes Letters Patents, bearing Date the <hi>XII.</hi> day of Iune, in the <hi>XIII.</hi> yeare of his Raigne, did Grant vnto <hi>Iames Maxwell</hi> Eſquire, a Licenſe for <hi>XXI.</hi> yeares, from and after the expiration, ſurrender or other determination of the like Licenſe for<g ref="char:EOLhyphen"/>merly Granted to <hi>Arthur Baſſano</hi> and others, (which was determined ſome yeares agoe) for the ſaid <hi>Iames Maxwell</hi> by himſelfe, his Deputies, Seruants, or Factors, to prouide and buy within the Realme of England and Dominions of Wales, the whole number of Eighteene thouſand Dickers of Calue-skinnes, accompting ten dozen to euery Dicker, and the ſame to Ship, and tranſport in any Ship or Veſſell, in any Ports of England or Dominion aforeſaid, (the Ports of Cheſter and Leuer<g ref="char:EOLhyphen"/>poole onely excepted) paying vnto his Maieſtie for euery Dicker ſhipped as aforeſaid, the ſome of fiue ſhillings, the payment whereof to be made to the hands of his Highnes Collectors of Cuſtomes and Subſidies, in any Port or Creeke where the ſame ſhall be ſhipped. And withall ſtraightly prohibiting the transportation of any Calue-skinnes, by any other, then the ſaid <hi>Iames Maxwell,</hi> his Deputies, Factors, and Seruants.</p>
+            <p>By which ſaid Letters Patents, his Maieſtie giueth ſtraight commaund to all his Highnes Officers what ſoeuer, to be ayding and aſſiſting to the ſaid <hi>Iames Maxwell</hi> in the execution of the premiſes when they ſhall be thereunto required. Notwithſtanding Maſter <hi>Maxwell</hi> enformeth me, that ſome quantities of Calue-skinnes haue beene ſhipped out of ſome of the out Portes without any Licenſe from, or notice thereof had by himſelfe or his Aſſignes. Now ſeeing, that not onely his Maieſties Let<g ref="char:EOLhyphen"/>ters Patents aforeſaid giue ſtraight charge to the contrary, but alſo by a Statute in the XVIII. yeare of her late Maieſties Raigne, a penaltie of forfaicture of all Leather ſhipped without Licenſe, and treble the value thereof is impoſed vpon the Owners of the ſame: And further, the like penalty is ſet vpon all Cuſtomers, Comp<g ref="char:EOLhyphen"/>troulers, Farmers, and Superuiſors of Cuſtoms and Subſidies, that ſhall not be accomptant to his Maieſtie for the Cuſtome thereof, beſides the forfaicture of the ſhippes wherein it is ſhipped, and the Maſters and Mariners of the ſame ſhippes, to forfaict all their goods, and to haue a yeares impriſonment. Theſe are therefore to pray and require you not onely to giue ſtraight order to all your Deputies in ſuch Ports as Maſter <hi>Maxwell,</hi> or his Aſſignes ſhall nominate vnto you, to ſee the contents of the ſaid Letters Patents duely effected: but alſo to ſignifie this charge hereby giuen by me, to all the Cuſtomers, Comptrollers, and Searchers of the ſeuerall Ports, that they duely obſerue the ſame vpon paine of the penalty ſet by the ſaid Statute, which ſhall ſurely be inflicted vpon them if they offend. And for their better direction, Maſter <hi>Maxwell</hi> will ſend to euery Cuſtome-houſe a printed Copie of the ſaid Letters <hi>Patents,</hi> that euery man whom it ſhall concerne may take ſpeciall notice thereof: And hereof praying you not to faile, I bid you farewell.</p>
+            <closer>
+               <dateline>From the Court at Whitehall <date>this ſecond of <hi>February.</hi> 1622.</date>
+               </dateline>
+               <signed>Your Louing Friend. <hi>MIDDELSEX.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
